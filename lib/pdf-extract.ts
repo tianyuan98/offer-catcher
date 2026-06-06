@@ -11,7 +11,7 @@ async function ensurePdfjs() {
     return import("pdfjs-dist");
   }
   const pdfjsLib = await import("pdfjs-dist");
-  pdfjsLib.GlobalWorkerOptions.workerSrc = "/pdf.worker.min.mjs";
+  pdfjsLib.GlobalWorkerOptions.workerSrc = "/offer-catcher/pdf.worker.min.mjs";
   _pdfjsReady = true;
   return pdfjsLib;
 }
