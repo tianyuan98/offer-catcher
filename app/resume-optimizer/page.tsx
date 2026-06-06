@@ -967,13 +967,13 @@ export default function ResumeOptimizerPage() {
                       </p>
                       <div className="flex gap-2">
                         <a
-                          href="/job-matcher.html"
+                          href="/job-matcher/"
                           className="rounded-full border border-slate-300 px-3 py-1.5 text-xs font-medium transition hover:border-cyan-300"
                         >
                           返回岗位匹配官
                         </a>
                         <a
-                          href="/index.html"
+                          href="/"
                           className="rounded-full bg-slate-950 px-3 py-1.5 text-xs font-medium text-white transition hover:bg-cyan-600"
                         >
                           回到首页

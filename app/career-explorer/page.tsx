@@ -1159,7 +1159,7 @@ export default function CareerExplorerPage() {
             </div>
             <div className="flex items-center gap-3">
               <a
-                href="/index.html"
+                href="/"
                 className="rounded-full border border-slate-200 bg-slate-50 px-4 py-2 text-sm text-slate-600 transition hover:border-cyan-400 hover:text-cyan-600"
               >
                 ← 回到首页
@@ -1424,7 +1424,7 @@ export default function CareerExplorerPage() {
                     重新测试
                   </button>
                   <a
-                    href="/job-matcher.html"
+                    href="/job-matcher/"
                     className="inline-flex items-center rounded-full bg-slate-950 px-5 py-2 text-sm font-medium text-white transition hover:bg-cyan-600"
                   >
                     前往岗位匹配官 →

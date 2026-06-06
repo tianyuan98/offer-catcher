@@ -437,7 +437,7 @@ ${jdText}
                         </p>
                       </div>
                       <a
-                        href="/resume-optimizer.html"
+                        href="/resume-optimizer/"
                         className="inline-flex rounded-full bg-slate-950 px-5 py-3 text-sm font-medium text-white transition hover:bg-cyan-600"
                       >
                         前往简历优化官
